@@ -7,12 +7,21 @@ It was created as part of a Curriculum Engineer assignment.
 
 ## 🐳 Docker Commands
 
-After cloning the repository, build the Docker image and run JupyterLab:
+To get started, clone this repository and run it inside Docker.
 
+### 1. Clone the repo
 ```bash
 git clone https://github.com/dorothka/ce-softmax.git
 cd ce-softmax
+```
+
+### 2. Build the Docker image
+```bash
 docker build -t ce-softmax .
+```
+
+### 3. Run the container
+```bash
 docker run --rm -p 8888:8888 -v "$(pwd)":/workspace ce-softmax
 ```
 
@@ -65,6 +74,7 @@ An instructor solution is included at the end of the notebook but would normally
 - `README.md` — this file.  
 - `LICENSE` — license for this repository.  
 - `.gitignore` — ignored files for cleanliness.  
+- `LLM_LOGS.md` — documentation of LLM usage with selected excerpts.  
 
 ---
 

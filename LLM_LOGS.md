@@ -2,7 +2,7 @@
 
 This file documents how I used ChatGPT (GPT-5) as a **support tool** during this assignment.  
 Scope of help: clarifying coding details, Docker/Jupyter setup, and Git/GitHub troubleshooting.  
-I (the candidate) structured the exercise, wrote/edited the learning objectives/instructions, and curated the final notebook and repo.
+I structured the exercise, wrote/edited the learning objectives/instructions, and curated the final notebook and repo.
 
 > Sensitive tokens/links are **redacted** like `[REDACTED]`.
 

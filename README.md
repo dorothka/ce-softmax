@@ -9,7 +9,7 @@ It was created as part of a Curriculum Engineer assignment.
 
 To get started, clone this repository and run it inside Docker.
 
-### 1. Clone the repo
+### 1. Clone the repository
 ```bash
 git clone https://github.com/dorothka/ce-softmax.git
 cd ce-softmax
